@@ -110,7 +110,7 @@ Aliases are entirely optional, most `OP`s do not have aliases. Consult the `OP` 
 
 ## Avoiding non-determinism
 
-Although happy accidents in the modular world are one of it's many joys, when writing computer programs they can be incredibly frustrating. Here are some small tips to help keep things predictable (when you want them to be):
+Although happy accidents in the modular world are one of its many joys, when writing computer programs they can be incredibly frustrating. Here are some small tips to help keep things predictable (when you want them to be):
 
   1. **Don't use variables unless you need to.**
   
